@@ -1,0 +1,19 @@
+{
+  "name": "learn-github",
+  "version": "1.0.0",
+  "description": "Belajar Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leslieaula/learn-github.git"
+  },
+  "author": "moonlay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leslieaula/learn-github/issues"
+  },
+  "homepage": "https://github.com/leslieaula/learn-github#readme"
+}
